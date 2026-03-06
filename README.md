@@ -344,4 +344,4 @@ This project template can be adapted for:
 ![Churn Analysis](outputs/financial_viz/07_churn_analysis.png)
 
 ## Executive Dashboard
-![Dashboard](outputs/financial_viz/16_FINAL_EXECUTIVE_DASHBOARD.png)
+![Executive Dashboard](outputs/financial_viz/16_FINAL_EXECUTIVE_DASHBOARD.png)
