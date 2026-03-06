@@ -336,6 +336,12 @@ This project template can be adapted for:
 
 ---
 
-## 📝 License
 
-This project is licensed under the MIT License - see below:
+## Revenue Forecast
+![Revenue Forecast](outputs/financial_viz/04_arima_forecast.png)
+
+## Churn Analysis
+![Churn Analysis](outputs/financial_viz/07_churn_analysis.png)
+
+## Executive Dashboard
+![Dashboard](outputs/financial_viz/16_FINAL_EXECUTIVE_DASHBOARD.png)
